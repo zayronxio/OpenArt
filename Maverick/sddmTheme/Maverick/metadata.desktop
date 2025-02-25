@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Elementary
+Author=Maverick
+Copyright=(c) 2025, zayronxio
+License=gpl3.0
+Type=sddm-theme
+Version=0.1
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Maverick
+QtVersion=6

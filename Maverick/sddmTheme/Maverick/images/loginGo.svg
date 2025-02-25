@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.35"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="loginGo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="22.748822"
+     inkscape:cx="10.571976"
+     inkscape:cy="9.0114558"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2"
+       style="fill:#44475a;stroke-width:0.560511;stroke-linecap:round;stroke-linejoin:round"
+       d="M 3.1579468,0.69657078 A 2.5001276,2.5001276 0 0 0 0.65784098,3.1966766 2.5001276,2.5001276 0 0 0 3.1579468,5.6967824 2.5001276,2.5001276 0 0 0 5.6580526,3.1966766 2.5001276,2.5001276 0 0 0 3.1579468,0.69657078 Z M 3.0783651,1.7409515 a 0.40000001,0.40000001 0 0 1 0.2888712,0.1018026 l 1.2578044,1.1265462 a 0.40004001,0.40004001 0 0 1 -0.00982,0.6056478 l -1.3477214,1.12913 A 0.40000001,0.40000001 0 0 1 2.7052612,4.6529184 0.40000001,0.40000001 0 0 1 2.7538371,4.0906789 L 3.2519979,3.67365 H 1.6696655 c -0.1230161,0 -0.2222086,-0.099193 -0.2222086,-0.2222086 V 3.1227793 c 0,-0.1230161 0.099193,-0.2222087 0.2222086,-0.2222087 H 3.3491496 L 2.8318685,2.4359995 A 0.40000001,0.40000001 0 0 1 2.8029297,1.8716929 0.40000001,0.40000001 0 0 1 3.0783651,1.7409515 Z" />
+  </g>
+</svg>

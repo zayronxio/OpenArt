@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=EclipseShade
+X-KDE-PluginInfo-Author=zayronxio
+X-KDE-PluginInfo-Email=zayronxio@gmail.com 
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-Website=https://store.kde.org/p/2253762/
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=EclipseShade
+X-KDE-PluginInfo-Version=1.3.7
+X-KDE-PluginInfo-Website=
+
+[BlurBehindEffect]
+enabled=true
+
