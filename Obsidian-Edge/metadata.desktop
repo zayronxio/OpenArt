@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Obsidian-Edge
+X-KDE-PluginInfo-Author=zayronxio
+X-KDE-PluginInfo-Email=adolfo@librepixels.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-Website=https://store.kde.org/p/2253762/
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=Obsidian-Edge
+X-KDE-PluginInfo-Version=0.5
+
+[BlurBehindEffect]
+enabled=true
+
